@@ -8,7 +8,7 @@
 #include <raylib.h>
 
 int main() {
-    Color colorGrey = {29, 29, 29, 255};
+    Color colorGrey = {241, 241, 241, 255};
     const int windowHeight = 1000;
     const int windowWidth = 1500;
     const int cellSize = 25;
