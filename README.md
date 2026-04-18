@@ -1,4 +1,10 @@
 ## Conway's Game of Life made using C++ and Raylib
+
+Before compiling make sure you have the needed libraries, on Fedora these can be installed like so:
+```bash
+sudo dnf install raylib raylib-devel
+```
+
 Compile:
 ``g++ main.cpp -lraylib -o gameoflife``
 
