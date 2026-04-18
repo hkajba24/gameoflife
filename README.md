@@ -6,7 +6,9 @@ sudo dnf install raylib raylib-devel
 ```
 
 Compile:
-``g++ main.cpp -lraylib -o gameoflife``
+```bash
+g++ main.cpp -lraylib -o gameoflife
+```
 
 Controls:
 1. ``ENTER`` to start the simulation
